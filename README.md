@@ -1,7 +1,23 @@
 # Kidney-Disease-Classification
 
+
+## Workflows
+
+1. Update Config.yaml
+2. Update secrets.yaml [Optional]
+3. Update params.yaml
+4. Update the Entity
+5. Update the Configuration Manger in src config
+6. Update the Components
+7. Update the pipeline
+8. Update the main.py
+9. Update the dvc.yaml
+10. Last update the user interface app.py
+
 # How to run?
+
 ### STEPS
+
 
 Clone the repository
 
@@ -25,3 +41,5 @@ conda activate kidney
 ```bash
 pip install -r requirements.txt
 ```
+
+
